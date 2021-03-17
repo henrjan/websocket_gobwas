@@ -1,1 +1,1 @@
-websocket using gobwas
+simple websocket test using gobwas
